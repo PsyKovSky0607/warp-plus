@@ -17,7 +17,7 @@ print ("--------")
 print ("THIS SCRIPT CODDED BY Notorious-Turtle") 
 print ("--------")
 
-referrer = "cc83b916-3be2-413a-8b1e-3b9a41c002c7"
+referrer = "1c35c49a-ceea-42b9-9fdf-a1cb6be943c3"
 def genString(stringLength):
 	try:
 		letters = string.ascii_letters + string.digits
